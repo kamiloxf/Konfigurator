@@ -19,6 +19,6 @@ Skrypt PowerShell przyśpieszający konfigurację systemu Windows 10 po czystej 
 - Możliwość Połączenia procesów SVCHOST
 - Ustawienie pamięci wirtualnej zależnie od ilości posiadaniej pamięci RAM 
 - Możliwość wyboru poziomu ochrony Windows Defener (Brak, Domyślny, Maksymalny) 
-
+- Możliwość wyłączenia zarezerwowanej przestrzeni dyskowej
  
  
